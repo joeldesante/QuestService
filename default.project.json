@@ -4,15 +4,13 @@
     "$className": "DataModel",
 
     "ReplicatedStorage": {
-      "Common": {
-        "$path": "src/shared"
-      }
+      "$className": "ReplicatedStorage",
+      "$path": "src/shared"
     },
 
     "ServerStorage": {
-      "Server": {
-        "$path": "src/serverstorage"
-      }
+      "$className": "ServerStorage",
+      "$path": "src/serverstorage"
     },
 
     "Workspace": {
