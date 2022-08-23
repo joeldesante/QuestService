@@ -1,6 +1,6 @@
 # QuestService
 *The Flexible, Open Source Quest System.*
-[Source Code ](https://github.com/joeldesante/QuestService) | [Download ](https://github.com/joeldesante/QuestService/releases)
+[Source Code](https://github.com/joeldesante/QuestService) | [Download](https://github.com/joeldesante/QuestService/releases)
 
 IMAGE GO HERE
 
