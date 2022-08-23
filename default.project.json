@@ -9,17 +9,9 @@
       }
     },
 
-    "ServerScriptService": {
+    "ServerStorage": {
       "Server": {
-        "$path": "src/server"
-      }
-    },
-
-    "StarterPlayer": {
-      "StarterPlayerScripts": {
-        "Client": {
-          "$path": "src/client"
-        }
+        "$path": "src/serverstorage"
       }
     },
 
